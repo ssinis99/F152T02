@@ -1,0 +1,8 @@
+body{background-color: blanchedalmond;}
+h1{color: darkblue; text-align: center;}
+h2{color: darkred; text-align: center;}
+
+li{color: darkgreen; font-size: 1.2em; margin: 5px 0;
+    padding: 5px; border: 1px solid darkgreen; border-radius: 5px;
+    background-color: lightyellow; list-style-type: none;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);}
